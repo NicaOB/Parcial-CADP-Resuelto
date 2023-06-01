@@ -1,6 +1,10 @@
-Recuerden que este es mi modo de hacer el parcial. Pueden encararlo a su gusto pero esta seria la "mejor manera". En la clase de hoy les dije que pregunten cuando dice "se dispone", no se olviden, yo hice todos los modulos para que lo puedan correr en sus compus y ver que funciona bien, pero en el parcial capaz se pueden ahorrar hacer todos esos modulos. 
+Recuerden que este es mi modo de hacer el parcial. Pueden encararlo a su gusto pero esta seria la "mejor manera". En la clase de hoy les dije que pregunten cuando dice "se dispone", no se olviden, yo hice todos los modulos para que lo puedan correr en sus compus y ver que funciona bien, pero en el parcial capaz se pueden ahorrar hacer todos esos modulos.
+
+
 El enunciado, en el inciso "b" dice que hay que hacer un modulo que reciba la lista generada anteriormente, es decir, que lo van a tener que recorrer una sola vez. Por eso, hice el modulo "recorrerLista", que recorre la lista una sola vez, y va sacando la informacion a medida que se recorre. LEAN BIEN!!!!!!
 
+
 Ante cualquier inconveniente, decirles que esto es a modo de ayuda, para que entiendan y no tengan miedo a la hora de hacer un parcial. Ustedes saben, ya han hecho estos algoritmos en las practicas y mas complejos aun. El tiempo es finito durante el parcial, pero tengan confianza en ustedes, pregunten todo lo que puedan, no se desesperen y ante todo no se frustren, siempre se puede volver a intentar. Exitos!
+
 
 PD: SI ENCUENTRAN ALGUN ERROR O TIENEN ALGUNA DUDA ME MANDAN UN WSP Y LO VEMOS.
